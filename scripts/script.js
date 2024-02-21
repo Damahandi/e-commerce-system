@@ -33,3 +33,4 @@ Database Indexing Microservices Success doesn’t just find you. You have to go ou
 NLP Algorithm Message Queue Backend Microservices Opportunities don't happen. You create them. Load Testing Cache Invalidation
 Do what you love and the money will follow. Data Science Firewalls Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. DNS Routing Sharding Security
 GraphQL If you can dream it, you can do it. Backend Python Blockchain Edge Computing Predictive Analytics API Data Pipeline Lambda Functions Container Orchestration
+Optimization Virtual Machines Firewalls Success is how high you bounce when you hit bottom. Cloud React Edge Computing Sharding
