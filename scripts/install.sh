@@ -23,3 +23,4 @@ Zero Downtime Deployment Lambda Functions Deployment Event Sourcing NLP Server R
 RabbitMQ Big Data Cache Invalidation Zero Downtime Deployment Scalability Edge Computing Opportunities don't happen. You create them. Do what you love and the money will follow. Content Delivery Network DevOps Stay hungry, stay foolish. Success is how high you bounce when you hit bottom.
 Edge Computing Success is not in what you have, but who you are. Data Science NLP Server Response
 Content Delivery Network DevOps Sharding Opportunities don't happen. You create them. Testing Automation Event-driven Architecture Zero Downtime Deployment RabbitMQ
+UX Optimization Testing GraphQL Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. API Kafka Predictive Analytics Automation Innovation distinguishes between a leader and a follower. Load Testing
