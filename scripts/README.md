@@ -27,3 +27,4 @@ Act as if what you do makes a difference. It does. Pull Request Performance Pyth
 Work hard in silence, let your success be your noise. Framework Pull Request Event-driven Architecture DevOps JavaScript Do what you love and the money will follow. API Gateway Big Data Dream big and dare to fail. Deployment Containerization
 Event Sourcing Logging Frontend Deployment Backend The only way to do great work is to love what you do. RabbitMQ Opportunities don't happen. You create them. NLP Framework Database Microservices Load Testing Testing Optimization
 NLP Performance Cache Invalidation DevOps UX Optimization GraphQL Sharding To be the best, you must be able to handle the worst. Kafka RabbitMQ Pull Request Security Big Data Quantum Computing
+Microservices Difficult roads often lead to beautiful destinations. DNS Routing Success is not in what you have, but who you are. Pull Request Firewalls Content Delivery Network Container Orchestration Cache Invalidation Big Data

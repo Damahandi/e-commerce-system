@@ -32,3 +32,4 @@ Event-driven Architecture Performance Logging Container Orchestration React Succ
 Event Sourcing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Machine Learning Kafka I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Microservices RabbitMQ CI/CD
 Serverless Cloud Functions Frontend Logging Sharding Optimization Pull Request Backend Predictive Analytics
 API NLP Kubernetes Distributed Systems React API Gateway RabbitMQ Big Data
+API Server Response RabbitMQ To be the best, you must be able to handle the worst. Multi-threading Logging Security Frontend Code Review Version Control
