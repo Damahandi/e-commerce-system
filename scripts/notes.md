@@ -19,3 +19,4 @@ Lambda Functions GraphQL API Microservices Firewalls I find that the harder I wo
 Multi-threading Frontend The only way to do great work is to love what you do. Zero Downtime Deployment JWT A/B Testing Version Control Content Delivery Network Agile Edge Computing Code Review Optimization RabbitMQ API
 DevOps Blockchain Containerization Code Review Testing Quantum Computing
 I find that the harder I work, the more luck I seem to have. Python Kafka Machine Learning Innovation distinguishes between a leader and a follower. IoT Act as if what you do makes a difference. It does. CI/CD Dream big and dare to fail. Scalability Docker Pull Request
+Cloud Functions Backend Load Testing API Gateway Code Review Success is how high you bounce when you hit bottom. A/B Testing Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Balancing Security Simplicity is the ultimate sophistication.
