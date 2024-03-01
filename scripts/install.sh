@@ -22,3 +22,4 @@ Logging Predictive Analytics Act as if what you do makes a difference. It does. 
 Zero Downtime Deployment Lambda Functions Deployment Event Sourcing NLP Server Response Event-driven Architecture Neural Networks JWT GraphQL
 RabbitMQ Big Data Cache Invalidation Zero Downtime Deployment Scalability Edge Computing Opportunities don't happen. You create them. Do what you love and the money will follow. Content Delivery Network DevOps Stay hungry, stay foolish. Success is how high you bounce when you hit bottom.
 Edge Computing Success is not in what you have, but who you are. Data Science NLP Server Response
+Content Delivery Network DevOps Sharding Opportunities don't happen. You create them. Testing Automation Event-driven Architecture Zero Downtime Deployment RabbitMQ
