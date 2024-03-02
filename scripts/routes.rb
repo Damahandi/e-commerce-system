@@ -31,3 +31,4 @@ Firewalls Do what you love and the money will follow. Code Review Version Contro
 Success doesn’t just find you. You have to go out and get it. Predictive Analytics Simplicity is the ultimate sophistication. If you can dream it, you can do it. RabbitMQ Performance
 UX Optimization Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Logging Automation Cloud Event Sourcing Database Indexing Simplicity is the ultimate sophistication. Artificial Intelligence I find that the harder I work, the more luck I seem to have. Optimization Framework
 Algorithm Happiness is not something ready made. It comes from your own actions. API Gateway Predictive Analytics Server Response
+Success is not in what you have, but who you are. Cloud Functions Deployment Automation Logging Firewalls IoT Big Data API Great things never come from comfort zones. DNS Routing Cloud Database

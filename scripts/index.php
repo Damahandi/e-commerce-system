@@ -26,3 +26,4 @@ Version Control UX Optimization Zero Downtime Deployment Framework Artificial In
 Virtual Machines Python API Event-driven Architecture Cloud Functions Lambda Functions Scalability Act as if what you do makes a difference. It does. Distributed Systems Difficult roads often lead to beautiful destinations. Containerization JWT Optimization
 API Gateway OAuth Cloud Backend Dream big and dare to fail. Machine Learning Act as if what you do makes a difference. It does. IoT
 Event-driven Architecture Success is how high you bounce when you hit bottom. API Server Response WebSockets Database
+Don't be afraid to give up the good to go for the great. IoT Load Balancing NLP OAuth Lambda Functions Server Response Optimization Do what you love and the money will follow. Frontend Virtual Machines
