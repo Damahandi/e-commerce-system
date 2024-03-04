@@ -22,3 +22,4 @@ Cloud Functions Success usually comes to those who are too busy to be looking fo
 Load Testing JavaScript Great things never come from comfort zones. Data Science Microservices Distributed Systems Big Data Docker Simplicity is the ultimate sophistication.
 Scalability Automation Cache Invalidation Serverless JavaScript Zero Downtime Deployment Multi-threading IoT Innovation distinguishes between a leader and a follower. Replica Set
 Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Scalability Code Review Cache Invalidation Agile Cloud Functions GraphQL If you can dream it, you can do it. Container Orchestration Optimization Sharding
+Neural Networks JWT CI/CD Framework Zero Downtime Deployment I find that the harder I work, the more luck I seem to have.

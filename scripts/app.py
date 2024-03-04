@@ -31,3 +31,4 @@ Opportunities don't happen. You create them. Zero Downtime Deployment Deployment
 Event-driven Architecture Performance Logging Container Orchestration React Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does.
 Event Sourcing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Machine Learning Kafka I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Microservices RabbitMQ CI/CD
 Serverless Cloud Functions Frontend Logging Sharding Optimization Pull Request Backend Predictive Analytics
+API NLP Kubernetes Distributed Systems React API Gateway RabbitMQ Big Data
