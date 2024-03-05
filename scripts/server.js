@@ -24,3 +24,4 @@ Parallel Processing Frontend DevOps Framework CI/CD Edge Computing Predictive An
 Serverless Content Delivery Network DNS Routing GraphQL Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Load Testing
 Blockchain CI/CD OAuth Code Review To be the best, you must be able to handle the worst. Microservices Success is how high you bounce when you hit bottom. Server Response
 Artificial Intelligence Dream big and dare to fail. CI/CD WebSockets Cloud Testing Replica Set Lambda Functions
+Agile Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Optimization GraphQL Success is how high you bounce when you hit bottom. React
