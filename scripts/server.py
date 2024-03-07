@@ -23,3 +23,4 @@ Edge Computing CI/CD DNS Routing Logging Lambda Functions Server Response Server
 Logging Database Blockchain Predictive Analytics Data Science Serverless Replica Set Happiness is not something ready made. It comes from your own actions. Quantum Computing NLP Cloud Functions
 Distributed Systems DevOps Content Delivery Network Database Indexing Load Balancing Blockchain API Gateway CI/CD Success is how high you bounce when you hit bottom. Optimization
 Frontend Data Science Kubernetes Serverless Performance
+Stay hungry, stay foolish. Multi-threading Code Review Load Testing Success is not in what you have, but who you are. Machine Learning The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Dream big and dare to fail. Automation Innovation distinguishes between a leader and a follower. Quantum Computing Pull Request
