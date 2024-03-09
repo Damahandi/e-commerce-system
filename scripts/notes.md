@@ -18,3 +18,4 @@ Docker Serverless Frontend Pull Request Success usually comes to those who are t
 Lambda Functions GraphQL API Microservices Firewalls I find that the harder I work, the more luck I seem to have. Docker Act as if what you do makes a difference. It does. Dream big and dare to fail. Great things never come from comfort zones.
 Multi-threading Frontend The only way to do great work is to love what you do. Zero Downtime Deployment JWT A/B Testing Version Control Content Delivery Network Agile Edge Computing Code Review Optimization RabbitMQ API
 DevOps Blockchain Containerization Code Review Testing Quantum Computing
+I find that the harder I work, the more luck I seem to have. Python Kafka Machine Learning Innovation distinguishes between a leader and a follower. IoT Act as if what you do makes a difference. It does. CI/CD Dream big and dare to fail. Scalability Docker Pull Request
