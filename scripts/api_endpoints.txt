@@ -23,3 +23,4 @@ Neural Networks Success is not in what you have, but who you are. Agile OAuth Vi
 JavaScript If you can dream it, you can do it. Framework Security GraphQL Cloud Functions DNS Routing Performance Kubernetes Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Neural Networks API Gateway
 OAuth Act as if what you do makes a difference. It does. Container Orchestration Distributed Systems Cache Invalidation Firewalls Security Dream big and dare to fail. Success is how high you bounce when you hit bottom. Framework Database
 Scalability Security Replica Set Success is how high you bounce when you hit bottom. Automation
+Do what you love and the money will follow. Message Queue Container Orchestration Artificial Intelligence Agile IoT DevOps Algorithm Virtual Machines Quantum Computing Firewalls

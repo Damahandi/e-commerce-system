@@ -17,3 +17,4 @@ Framework Data Pipeline If you can dream it, you can do it. GraphQL Microservice
 Docker Serverless Frontend Pull Request Success usually comes to those who are too busy to be looking for it. Load Testing Monitoring Kafka Logging Virtual Machines Database Artificial Intelligence Content Delivery Network Data Pipeline
 Lambda Functions GraphQL API Microservices Firewalls I find that the harder I work, the more luck I seem to have. Docker Act as if what you do makes a difference. It does. Dream big and dare to fail. Great things never come from comfort zones.
 Multi-threading Frontend The only way to do great work is to love what you do. Zero Downtime Deployment JWT A/B Testing Version Control Content Delivery Network Agile Edge Computing Code Review Optimization RabbitMQ API
+DevOps Blockchain Containerization Code Review Testing Quantum Computing
