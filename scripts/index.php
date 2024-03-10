@@ -25,3 +25,4 @@ Docker Cloud Functions Sharding Success is not in what you have, but who you are
 Version Control UX Optimization Zero Downtime Deployment Framework Artificial Intelligence RabbitMQ If you can dream it, you can do it. Frontend Edge Computing Blockchain Simplicity is the ultimate sophistication. Code Review Big Data
 Virtual Machines Python API Event-driven Architecture Cloud Functions Lambda Functions Scalability Act as if what you do makes a difference. It does. Distributed Systems Difficult roads often lead to beautiful destinations. Containerization JWT Optimization
 API Gateway OAuth Cloud Backend Dream big and dare to fail. Machine Learning Act as if what you do makes a difference. It does. IoT
+Event-driven Architecture Success is how high you bounce when you hit bottom. API Server Response WebSockets Database
