@@ -30,3 +30,4 @@ Replica Set Python Edge Computing Frontend Containerization API Gateway DNS Rout
 DevOps Firewalls RabbitMQ Algorithm Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. UX Optimization Machine Learning Agile Monitoring Backend Version Control Database JWT API Gateway
 Serverless Latency Optimization Containerization Great things never come from comfort zones. Neural Networks Testing
 Database Indexing Microservices Success doesn’t just find you. You have to go out and get it. Kubernetes Deployment NLP Predictive Analytics DevOps CI/CD Artificial Intelligence Difficult roads often lead to beautiful destinations.
+NLP Algorithm Message Queue Backend Microservices Opportunities don't happen. You create them. Load Testing Cache Invalidation
