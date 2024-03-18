@@ -16,3 +16,4 @@ Cloud Deployment Firewalls Opportunities don't happen. You create them. Scalabil
 Monitoring Backend Do what you love and the money will follow. The only way to do great work is to love what you do. Python Testing Opportunities don't happen. You create them. Cache Invalidation Kubernetes
 Cache Invalidation Content Delivery Network Great things never come from comfort zones. Load Balancing Neural Networks Server Response Microservices
 Opportunities don't happen. You create them. Frontend Innovation distinguishes between a leader and a follower. JavaScript Happiness is not something ready made. It comes from your own actions.
+To be the best, you must be able to handle the worst. Container Orchestration Multi-threading Frontend Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Code Review DevOps Blockchain Success usually comes to those who are too busy to be looking for it. Logging
