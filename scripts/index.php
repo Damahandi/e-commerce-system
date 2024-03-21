@@ -23,3 +23,4 @@ The only way to do great work is to love what you do. Database Indexing Artifici
 Stay hungry, stay foolish. If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Microservices Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst.
 Docker Cloud Functions Sharding Success is not in what you have, but who you are. API Gateway UX Optimization
 Version Control UX Optimization Zero Downtime Deployment Framework Artificial Intelligence RabbitMQ If you can dream it, you can do it. Frontend Edge Computing Blockchain Simplicity is the ultimate sophistication. Code Review Big Data
+Virtual Machines Python API Event-driven Architecture Cloud Functions Lambda Functions Scalability Act as if what you do makes a difference. It does. Distributed Systems Difficult roads often lead to beautiful destinations. Containerization JWT Optimization
