@@ -20,3 +20,4 @@ Predictive Analytics I find that the harder I work, the more luck I seem to have
 Neural Networks JavaScript Security Message Queue Cache Invalidation Optimization Container Orchestration Python If you can dream it, you can do it. Quantum Computing RabbitMQ Success doesn’t just find you. You have to go out and get it. Distributed Systems DNS Routing Multi-threading
 DNS Routing Container Orchestration Logging Load Balancing OAuth API Multi-threading Lambda Functions I find that the harder I work, the more luck I seem to have. API Gateway Sharding Virtual Machines
 The only way to do great work is to love what you do. Sharding Content Delivery Network Server Response Success is not in what you have, but who you are. Deployment Machine Learning Do what you love and the money will follow.
+IoT Testing Virtual Machines Docker Frontend Success is not in what you have, but who you are.

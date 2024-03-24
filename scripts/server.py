@@ -22,3 +22,4 @@ Neural Networks Logging Serverless JavaScript Container Orchestration Database I
 Edge Computing CI/CD DNS Routing Logging Lambda Functions Server Response Serverless
 Logging Database Blockchain Predictive Analytics Data Science Serverless Replica Set Happiness is not something ready made. It comes from your own actions. Quantum Computing NLP Cloud Functions
 Distributed Systems DevOps Content Delivery Network Database Indexing Load Balancing Blockchain API Gateway CI/CD Success is how high you bounce when you hit bottom. Optimization
+Frontend Data Science Kubernetes Serverless Performance
