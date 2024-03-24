@@ -21,3 +21,4 @@ Neural Networks JavaScript Security Message Queue Cache Invalidation Optimizatio
 DNS Routing Container Orchestration Logging Load Balancing OAuth API Multi-threading Lambda Functions I find that the harder I work, the more luck I seem to have. API Gateway Sharding Virtual Machines
 The only way to do great work is to love what you do. Sharding Content Delivery Network Server Response Success is not in what you have, but who you are. Deployment Machine Learning Do what you love and the money will follow.
 IoT Testing Virtual Machines Docker Frontend Success is not in what you have, but who you are.
+Happiness is not something ready made. It comes from your own actions. Agile Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Edge Computing Pull Request Message Queue Stay hungry, stay foolish. Quantum Computing Machine Learning Success is not in what you have, but who you are.

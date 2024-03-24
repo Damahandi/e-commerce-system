@@ -23,3 +23,4 @@ Work hard in silence, let your success be your noise. A/B Testing OAuth Dream bi
 Parallel Processing Frontend DevOps Framework CI/CD Edge Computing Predictive Analytics Replica Set Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Docker Database Indexing Event Sourcing
 Serverless Content Delivery Network DNS Routing GraphQL Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Load Testing
 Blockchain CI/CD OAuth Code Review To be the best, you must be able to handle the worst. Microservices Success is how high you bounce when you hit bottom. Server Response
+Artificial Intelligence Dream big and dare to fail. CI/CD WebSockets Cloud Testing Replica Set Lambda Functions
