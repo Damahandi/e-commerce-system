@@ -15,3 +15,4 @@ Monitoring Happiness is not something ready made. It comes from your own actions
 GraphQL Algorithm Logging Docker Quantum Computing Deployment Parallel Processing Virtual Machines
 Framework Data Pipeline If you can dream it, you can do it. GraphQL Microservices I find that the harder I work, the more luck I seem to have. Testing Artificial Intelligence DevOps Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
 Docker Serverless Frontend Pull Request Success usually comes to those who are too busy to be looking for it. Load Testing Monitoring Kafka Logging Virtual Machines Database Artificial Intelligence Content Delivery Network Data Pipeline
+Lambda Functions GraphQL API Microservices Firewalls I find that the harder I work, the more luck I seem to have. Docker Act as if what you do makes a difference. It does. Dream big and dare to fail. Great things never come from comfort zones.

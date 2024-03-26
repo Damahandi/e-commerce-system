@@ -22,3 +22,4 @@ I find that the harder I work, the more luck I seem to have. Quantum Computing B
 The only way to do great work is to love what you do. Database Indexing Artificial Intelligence Stay hungry, stay foolish. DevOps Don't be afraid to give up the good to go for the great. WebSockets RabbitMQ Distributed Systems
 Stay hungry, stay foolish. If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Microservices Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst.
 Docker Cloud Functions Sharding Success is not in what you have, but who you are. API Gateway UX Optimization
+Version Control UX Optimization Zero Downtime Deployment Framework Artificial Intelligence RabbitMQ If you can dream it, you can do it. Frontend Edge Computing Blockchain Simplicity is the ultimate sophistication. Code Review Big Data
