@@ -20,3 +20,4 @@ Automation Act as if what you do makes a difference. It does. Kafka Zero Downtim
 Event-driven Architecture Edge Computing Virtual Machines Firewalls Multi-threading Latency Optimization Database Indexing
 Cloud Functions Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Database Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Parallel Processing Containerization React API Gateway Data Science Replica Set
 Load Testing JavaScript Great things never come from comfort zones. Data Science Microservices Distributed Systems Big Data Docker Simplicity is the ultimate sophistication.
+Scalability Automation Cache Invalidation Serverless JavaScript Zero Downtime Deployment Multi-threading IoT Innovation distinguishes between a leader and a follower. Replica Set
