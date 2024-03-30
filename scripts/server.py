@@ -20,3 +20,4 @@ Message Queue Load Balancing API Zero Downtime Deployment Quantum Computing WebS
 GraphQL Testing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Database Code Review Opportunities don't happen. You create them. Lambda Functions Distributed Systems I find that the harder I work, the more luck I seem to have. Virtual Machines
 Neural Networks Logging Serverless JavaScript Container Orchestration Database Indexing CI/CD Security DevOps Agile Success doesn’t just find you. You have to go out and get it. Kubernetes Data Science Act as if what you do makes a difference. It does.
 Edge Computing CI/CD DNS Routing Logging Lambda Functions Server Response Serverless
+Logging Database Blockchain Predictive Analytics Data Science Serverless Replica Set Happiness is not something ready made. It comes from your own actions. Quantum Computing NLP Cloud Functions
