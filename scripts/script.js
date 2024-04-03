@@ -26,3 +26,4 @@ Artificial Intelligence Load Balancing Kafka The only way to do great work is to
 Firewalls Virtual Machines Database JWT Difficult roads often lead to beautiful destinations.
 Framework Algorithm Data Pipeline Act as if what you do makes a difference. It does. Data Science Difficult roads often lead to beautiful destinations. Code Review
 A/B Testing Big Data RabbitMQ Cache Invalidation Latency Optimization Agile Neural Networks Lambda Functions Python Docker Great things never come from comfort zones. Act as if what you do makes a difference. It does. Database Indexing Performance
+Replica Set Python Edge Computing Frontend Containerization API Gateway DNS Routing Neural Networks Kafka

@@ -28,3 +28,4 @@ DevOps Frontend Pull Request Great things never come from comfort zones. Backend
 Framework WebSockets Stay hungry, stay foolish. Quantum Computing Zero Downtime Deployment RabbitMQ Load Balancing Opportunities don't happen. You create them. NLP Firewalls Database CI/CD The only way to do great work is to love what you do. Cloud Algorithm
 Multi-threading Difficult roads often lead to beautiful destinations. Data Pipeline Don't be afraid to give up the good to go for the great. Algorithm Latency Optimization The only way to do great work is to love what you do. Success is not in what you have, but who you are.
 Firewalls Do what you love and the money will follow. Code Review Version Control Opportunities don't happen. You create them. Big Data Monitoring Machine Learning Docker
+Success doesn’t just find you. You have to go out and get it. Predictive Analytics Simplicity is the ultimate sophistication. If you can dream it, you can do it. RabbitMQ Performance
