@@ -27,3 +27,4 @@ Scalability Microservices To be the best, you must be able to handle the worst. 
 JavaScript Performance Virtual Machines Success is not in what you have, but who you are. Data Science Cache Invalidation Agile Cloud Container Orchestration Artificial Intelligence Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Monitoring Great things never come from comfort zones. React
 A/B Testing Artificial Intelligence Logging Replica Set Microservices
 React Security Load Balancing Parallel Processing Zero Downtime Deployment Opportunities don't happen. You create them.
+Opportunities don't happen. You create them. Zero Downtime Deployment Deployment UX Optimization Frontend To be the best, you must be able to handle the worst. Containerization Replica Set
