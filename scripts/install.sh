@@ -19,3 +19,4 @@ Stay hungry, stay foolish. Do what you love and the money will follow. Agile Fro
 The only way to do great work is to love what you do. Cloud Functions RabbitMQ Success usually comes to those who are too busy to be looking for it. Big Data Logging
 Do what you love and the money will follow. Success is not in what you have, but who you are. Serverless Data Science Blockchain Multi-threading Difficult roads often lead to beautiful destinations. React Frontend Pull Request Event Sourcing Load Testing Success is how high you bounce when you hit bottom.
 Logging Predictive Analytics Act as if what you do makes a difference. It does. Great things never come from comfort zones. Scalability
+Zero Downtime Deployment Lambda Functions Deployment Event Sourcing NLP Server Response Event-driven Architecture Neural Networks JWT GraphQL

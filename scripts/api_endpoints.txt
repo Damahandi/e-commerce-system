@@ -19,3 +19,4 @@ Algorithm Multi-threading IoT Deployment Kubernetes Opportunities don't happen. 
 Big Data Edge Computing Agile Database DevOps Security WebSockets Kubernetes Kafka Happiness is not something ready made. It comes from your own actions. Lambda Functions DNS Routing
 GraphQL Content Delivery Network Serverless If you can dream it, you can do it. Firewalls Optimization
 Message Queue IoT Cloud Database Indexing API Gateway The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Latency Optimization DNS Routing Monitoring
+Neural Networks Success is not in what you have, but who you are. Agile OAuth Virtual Machines JavaScript Frontend Event Sourcing Performance Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Docker
