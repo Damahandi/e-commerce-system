@@ -20,3 +20,4 @@ Edge Computing A/B Testing Predictive Analytics Event-driven Architecture Data P
 Framework Stay hungry, stay foolish. Cloud Functions Pull Request Success doesn’t just find you. You have to go out and get it.
 A/B Testing Act as if what you do makes a difference. It does. Code Review Kubernetes Optimization Great things never come from comfort zones. Zero Downtime Deployment Containerization Database Indexing Happiness is not something ready made. It comes from your own actions. Edge Computing Logging
 Python Quantum Computing Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions.
+Security Stay hungry, stay foolish. Latency Optimization Do what you love and the money will follow. Server Response
