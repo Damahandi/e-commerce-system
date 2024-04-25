@@ -17,3 +17,4 @@ Distributed Systems Load Balancing Blockchain Monitoring IoT Microservices Artif
 Microservices Pull Request I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Blockchain Content Delivery Network Backend If you can dream it, you can do it.
 Artificial Intelligence Message Queue Pull Request Load Testing Neural Networks Don't be afraid to give up the good to go for the great. Backend Cloud Functions UX Optimization Version Control Happiness is not something ready made. It comes from your own actions.
 Message Queue Load Balancing API Zero Downtime Deployment Quantum Computing WebSockets
+GraphQL Testing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Database Code Review Opportunities don't happen. You create them. Lambda Functions Distributed Systems I find that the harder I work, the more luck I seem to have. Virtual Machines
