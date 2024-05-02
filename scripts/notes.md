@@ -12,3 +12,4 @@ JWT Parallel Processing Virtual Machines Dream big and dare to fail. Machine Lea
 Replica Set Framework A/B Testing To be the best, you must be able to handle the worst. Message Queue Do what you love and the money will follow. Database Scalability Serverless
 Neural Networks Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. UX Optimization Data Science
 Monitoring Happiness is not something ready made. It comes from your own actions. GraphQL Predictive Analytics Do what you love and the money will follow. Scalability
+GraphQL Algorithm Logging Docker Quantum Computing Deployment Parallel Processing Virtual Machines
