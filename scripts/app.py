@@ -23,3 +23,4 @@ JavaScript Simplicity is the ultimate sophistication. Pull Request Dream big and
 Event-driven Architecture Serverless React Python Opportunities don't happen. You create them. Predictive Analytics Testing Blockchain Algorithm CI/CD
 JWT Act as if what you do makes a difference. It does. Replica Set Container Orchestration API Gateway Virtual Machines JavaScript A/B Testing
 Predictive Analytics Sharding Simplicity is the ultimate sophistication. Server Response Monitoring Pull Request Dream big and dare to fail. Innovation distinguishes between a leader and a follower. GraphQL Automation Opportunities don't happen. You create them. Backend Framework Work hard in silence, let your success be your noise. Version Control
+Scalability Microservices To be the best, you must be able to handle the worst. Message Queue Predictive Analytics Blockchain
