@@ -14,3 +14,4 @@ NLP Cloud Functions Docker RabbitMQ Automation Do what you love and the money wi
 Lambda Functions Scalability Version Control Database A/B Testing Load Balancing Data Science Cache Invalidation Firewalls Distributed Systems Algorithm Logging Microservices UX Optimization
 Scalability Neural Networks Pull Request Lambda Functions Dream big and dare to fail. Blockchain
 Distributed Systems Load Balancing Blockchain Monitoring IoT Microservices Artificial Intelligence Sharding
+Microservices Pull Request I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Blockchain Content Delivery Network Backend If you can dream it, you can do it.
