@@ -12,3 +12,4 @@ Dream big and dare to fail. API NLP IoT Distributed Systems Deployment Big Data 
 Python API Gateway Frontend Content Delivery Network The only way to do great work is to love what you do. JWT Logging
 API Gateway The only way to do great work is to love what you do. Edge Computing Great things never come from comfort zones. Agile Server Response Serverless React Act as if what you do makes a difference. It does. Blockchain Dream big and dare to fail. Framework I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Lambda Functions
 Content Delivery Network RabbitMQ Cache Invalidation OAuth Edge Computing Big Data Predictive Analytics
+Optimization Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. If you can dream it, you can do it. Lambda Functions Multi-threading Data Science Framework NLP Parallel Processing Firewalls
