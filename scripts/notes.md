@@ -11,3 +11,4 @@ DNS Routing Content Delivery Network Cache Invalidation Pull Request Success is 
 JWT Parallel Processing Virtual Machines Dream big and dare to fail. Machine Learning Testing Big Data Cloud Functions API Pull Request If you can dream it, you can do it. Load Balancing Optimization Predictive Analytics Stay hungry, stay foolish.
 Replica Set Framework A/B Testing To be the best, you must be able to handle the worst. Message Queue Do what you love and the money will follow. Database Scalability Serverless
 Neural Networks Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. UX Optimization Data Science
+Monitoring Happiness is not something ready made. It comes from your own actions. GraphQL Predictive Analytics Do what you love and the money will follow. Scalability
