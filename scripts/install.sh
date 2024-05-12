@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Lambda Fu
 Latency Optimization Machine Learning Version Control Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Do what you love and the money will follow. Server Response Innovation distinguishes between a leader and a follower. Code Review Performance React
 Stay hungry, stay foolish. Do what you love and the money will follow. Agile Frontend Lambda Functions
 The only way to do great work is to love what you do. Cloud Functions RabbitMQ Success usually comes to those who are too busy to be looking for it. Big Data Logging
+Do what you love and the money will follow. Success is not in what you have, but who you are. Serverless Data Science Blockchain Multi-threading Difficult roads often lead to beautiful destinations. React Frontend Pull Request Event Sourcing Load Testing Success is how high you bounce when you hit bottom.
