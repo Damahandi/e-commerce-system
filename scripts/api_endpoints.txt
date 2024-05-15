@@ -17,3 +17,4 @@ Parallel Processing Success usually comes to those who are too busy to be lookin
 Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Act as if what you do makes a difference. It does. Quantum Computing Big Data Load Testing
 Algorithm Multi-threading IoT Deployment Kubernetes Opportunities don't happen. You create them. Firewalls Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Optimization Server Response
 Big Data Edge Computing Agile Database DevOps Security WebSockets Kubernetes Kafka Happiness is not something ready made. It comes from your own actions. Lambda Functions DNS Routing
+GraphQL Content Delivery Network Serverless If you can dream it, you can do it. Firewalls Optimization
