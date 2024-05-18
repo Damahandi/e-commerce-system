@@ -19,3 +19,4 @@ NLP Data Pipeline To be the best, you must be able to handle the worst. Success 
 Edge Computing A/B Testing Predictive Analytics Event-driven Architecture Data Pipeline Optimization Don't be afraid to give up the good to go for the great. Performance Code Review Scalability Kafka Docker
 Framework Stay hungry, stay foolish. Cloud Functions Pull Request Success doesn’t just find you. You have to go out and get it.
 A/B Testing Act as if what you do makes a difference. It does. Code Review Kubernetes Optimization Great things never come from comfort zones. Zero Downtime Deployment Containerization Database Indexing Happiness is not something ready made. It comes from your own actions. Edge Computing Logging
+Python Quantum Computing Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions.
