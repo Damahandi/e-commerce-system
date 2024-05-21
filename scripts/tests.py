@@ -13,3 +13,4 @@ RabbitMQ Load Balancing UX Optimization Cache Invalidation Version Control API I
 Great things never come from comfort zones. Algorithm Parallel Processing Code Review The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
 Latency Optimization Serverless Virtual Machines DNS Routing Code Review JWT Great things never come from comfort zones. Kubernetes To be the best, you must be able to handle the worst. Database Indexing Happiness is not something ready made. It comes from your own actions. Load Balancing Parallel Processing
 Cloud Deployment Firewalls Opportunities don't happen. You create them. Scalability Zero Downtime Deployment Parallel Processing Monitoring GraphQL
+Monitoring Backend Do what you love and the money will follow. The only way to do great work is to love what you do. Python Testing Opportunities don't happen. You create them. Cache Invalidation Kubernetes
