@@ -13,3 +13,4 @@ Serverless Edge Computing Lambda Functions Great things never come from comfort 
 NLP Cloud Functions Docker RabbitMQ Automation Do what you love and the money will follow. Event-driven Architecture
 Lambda Functions Scalability Version Control Database A/B Testing Load Balancing Data Science Cache Invalidation Firewalls Distributed Systems Algorithm Logging Microservices UX Optimization
 Scalability Neural Networks Pull Request Lambda Functions Dream big and dare to fail. Blockchain
+Distributed Systems Load Balancing Blockchain Monitoring IoT Microservices Artificial Intelligence Sharding
