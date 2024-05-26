@@ -19,3 +19,4 @@ Success usually comes to those who are too busy to be looking for it. A/B Testin
 Stay hungry, stay foolish. Microservices I find that the harder I work, the more luck I seem to have. Deployment Container Orchestration Act as if what you do makes a difference. It does.
 Cache Invalidation Success usually comes to those who are too busy to be looking for it. Agile Code Review Data Pipeline Event-driven Architecture Zero Downtime Deployment Multi-threading Containerization Predictive Analytics Sharding DevOps Big Data A/B Testing Data Science
 Stay hungry, stay foolish. Optimization Event-driven Architecture Distributed Systems Content Delivery Network Success doesn’t just find you. You have to go out and get it. Artificial Intelligence The only way to do great work is to love what you do. Simplicity is the ultimate sophistication.
+Simplicity is the ultimate sophistication. JWT Database Success is not in what you have, but who you are. Performance
