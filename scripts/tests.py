@@ -10,3 +10,4 @@ Code Review Difficult roads often lead to beautiful destinations. Data Science A
 Stay hungry, stay foolish. Big Data Load Balancing Innovation distinguishes between a leader and a follower. Scalability Cloud
 Virtual Machines Container Orchestration Microservices Act as if what you do makes a difference. It does. Frontend Scalability Quantum Computing Security Success is how high you bounce when you hit bottom. Version Control
 RabbitMQ Load Balancing UX Optimization Cache Invalidation Version Control API If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. NLP Cloud Functions
+Great things never come from comfort zones. Algorithm Parallel Processing Code Review The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
