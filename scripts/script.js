@@ -17,3 +17,4 @@ Framework Artificial Intelligence To be the best, you must be able to handle the
 Optimization Microservices Lambda Functions Big Data NLP JWT Kafka OAuth IoT
 Success usually comes to those who are too busy to be looking for it. A/B Testing Edge Computing Algorithm Security Sharding Innovation distinguishes between a leader and a follower. Backend Predictive Analytics UX Optimization Neural Networks Server Response IoT JavaScript Don't be afraid to give up the good to go for the great.
 Stay hungry, stay foolish. Microservices I find that the harder I work, the more luck I seem to have. Deployment Container Orchestration Act as if what you do makes a difference. It does.
+Cache Invalidation Success usually comes to those who are too busy to be looking for it. Agile Code Review Data Pipeline Event-driven Architecture Zero Downtime Deployment Multi-threading Containerization Predictive Analytics Sharding DevOps Big Data A/B Testing Data Science

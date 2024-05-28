@@ -17,3 +17,4 @@ RabbitMQ Cache Invalidation Sharding Act as if what you do makes a difference. I
 Kafka Automation Database Kubernetes Frontend Database Indexing Cache Invalidation Edge Computing Do what you love and the money will follow.
 NLP Data Pipeline To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Logging Simplicity is the ultimate sophistication. Database Indexing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Python
 Edge Computing A/B Testing Predictive Analytics Event-driven Architecture Data Pipeline Optimization Don't be afraid to give up the good to go for the great. Performance Code Review Scalability Kafka Docker
+Framework Stay hungry, stay foolish. Cloud Functions Pull Request Success doesn’t just find you. You have to go out and get it.
