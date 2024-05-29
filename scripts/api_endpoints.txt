@@ -15,3 +15,4 @@ React Edge Computing UX Optimization WebSockets I find that the harder I work, t
 Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. NLP Difficult roads often lead to beautiful destinations. Containerization Artificial Intelligence Replica Set Deployment
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Event Sourcing Firewalls Agile A/B Testing OAuth Optimization
 Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Act as if what you do makes a difference. It does. Quantum Computing Big Data Load Testing
+Algorithm Multi-threading IoT Deployment Kubernetes Opportunities don't happen. You create them. Firewalls Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Optimization Server Response
