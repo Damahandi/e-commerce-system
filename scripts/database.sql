@@ -16,3 +16,4 @@ Act as if what you do makes a difference. It does. Data Pipeline Firewalls Kafka
 Neural Networks Load Balancing Monitoring Optimization Code Review Machine Learning
 Load Balancing Innovation distinguishes between a leader and a follower. Docker Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Dream big and dare to fail. JWT
 Cache Invalidation Success is how high you bounce when you hit bottom. DevOps Deployment Data Science Algorithm Innovation distinguishes between a leader and a follower. Logging Container Orchestration
+Automation Act as if what you do makes a difference. It does. Kafka Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Predictive Analytics Cloud Functions Containerization Happiness is not something ready made. It comes from your own actions.
