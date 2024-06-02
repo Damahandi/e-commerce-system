@@ -21,3 +21,4 @@ Performance Optimization Parallel Processing Scalability Predictive Analytics Da
 Security RabbitMQ Algorithm Predictive Analytics OAuth
 JavaScript Simplicity is the ultimate sophistication. Pull Request Dream big and dare to fail. Latency Optimization To be the best, you must be able to handle the worst. DNS Routing Opportunities don't happen. You create them. Stay hungry, stay foolish.
 Event-driven Architecture Serverless React Python Opportunities don't happen. You create them. Predictive Analytics Testing Blockchain Algorithm CI/CD
+JWT Act as if what you do makes a difference. It does. Replica Set Container Orchestration API Gateway Virtual Machines JavaScript A/B Testing
