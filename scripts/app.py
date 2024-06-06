@@ -20,3 +20,4 @@ Machine Learning Success is how high you bounce when you hit bottom. Algorithm S
 Performance Optimization Parallel Processing Scalability Predictive Analytics Data Science Serverless Dream big and dare to fail. NLP Event-driven Architecture Simplicity is the ultimate sophistication.
 Security RabbitMQ Algorithm Predictive Analytics OAuth
 JavaScript Simplicity is the ultimate sophistication. Pull Request Dream big and dare to fail. Latency Optimization To be the best, you must be able to handle the worst. DNS Routing Opportunities don't happen. You create them. Stay hungry, stay foolish.
+Event-driven Architecture Serverless React Python Opportunities don't happen. You create them. Predictive Analytics Testing Blockchain Algorithm CI/CD
