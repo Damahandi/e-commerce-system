@@ -15,3 +15,4 @@ Cache Invalidation The only way to do great work is to love what you do. Securit
 Act as if what you do makes a difference. It does. Data Pipeline Firewalls Kafka React IoT Python Edge Computing Event-driven Architecture Load Testing Virtual Machines Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Algorithm
 Neural Networks Load Balancing Monitoring Optimization Code Review Machine Learning
 Load Balancing Innovation distinguishes between a leader and a follower. Docker Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Dream big and dare to fail. JWT
+Cache Invalidation Success is how high you bounce when you hit bottom. DevOps Deployment Data Science Algorithm Innovation distinguishes between a leader and a follower. Logging Container Orchestration

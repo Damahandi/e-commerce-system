@@ -23,3 +23,4 @@ Backend Success doesn’t just find you. You have to go out and get it. Pull Reque
 Simplicity is the ultimate sophistication. JavaScript UX Optimization CI/CD WebSockets OAuth Quantum Computing Optimization Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 Testing Frontend Docker Firewalls Blockchain Framework Multi-threading IoT Logging Predictive Analytics Kubernetes Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. A/B Testing WebSockets
 Artificial Intelligence Edge Computing DNS Routing Opportunities don't happen. You create them. Big Data Data Science Database Indexing React Difficult roads often lead to beautiful destinations.
+Security Load Testing RabbitMQ To be the best, you must be able to handle the worst. Great things never come from comfort zones. IoT Replica Set Multi-threading Python Frontend Microservices

@@ -15,3 +15,4 @@ JWT Algorithm Framework Machine Learning Code Review
 Serverless Virtual Machines JWT JavaScript Database Indexing UX Optimization
 Framework Artificial Intelligence To be the best, you must be able to handle the worst. JavaScript Stay hungry, stay foolish. Event Sourcing Simplicity is the ultimate sophistication. GraphQL Edge Computing Machine Learning Optimization OAuth Don't be afraid to give up the good to go for the great. Frontend Do what you love and the money will follow.
 Optimization Microservices Lambda Functions Big Data NLP JWT Kafka OAuth IoT
+Success usually comes to those who are too busy to be looking for it. A/B Testing Edge Computing Algorithm Security Sharding Innovation distinguishes between a leader and a follower. Backend Predictive Analytics UX Optimization Neural Networks Server Response IoT JavaScript Don't be afraid to give up the good to go for the great.
