@@ -15,3 +15,4 @@ Agile Code Review Backend Deployment Load Testing Automation Great things never 
 Do what you love and the money will follow. Database Security React API Multi-threading Monitoring If you can dream it, you can do it. UX Optimization Pull Request Lambda Functions
 RabbitMQ Cache Invalidation Sharding Act as if what you do makes a difference. It does. Algorithm Frontend
 Kafka Automation Database Kubernetes Frontend Database Indexing Cache Invalidation Edge Computing Do what you love and the money will follow.
+NLP Data Pipeline To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Logging Simplicity is the ultimate sophistication. Database Indexing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Python

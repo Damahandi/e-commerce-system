@@ -10,3 +10,4 @@ Python Security Machine Learning Agile I find that the harder I work, the more l
 Serverless Success is how high you bounce when you hit bottom. Code Review Message Queue Optimization Agile Difficult roads often lead to beautiful destinations.
 Monitoring Big Data Event-driven Architecture Success is how high you bounce when you hit bottom. React Container Orchestration JWT Optimization Data Science Automation Testing Parallel Processing WebSockets
 Serverless Edge Computing Lambda Functions Great things never come from comfort zones. Blockchain CI/CD Security
+NLP Cloud Functions Docker RabbitMQ Automation Do what you love and the money will follow. Event-driven Architecture
