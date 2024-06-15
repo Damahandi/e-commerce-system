@@ -11,3 +11,4 @@ GraphQL Parallel Processing Distributed Systems OAuth Cloud Kubernetes Server Re
 Database Indexing Data Science DNS Routing Big Data Firewalls Latency Optimization Dream big and dare to fail. A/B Testing Cloud Functions Act as if what you do makes a difference. It does. If you can dream it, you can do it. Event-driven Architecture Success doesn’t just find you. You have to go out and get it.
 UX Optimization Big Data Microservices Testing Data Science
 CI/CD Sharding Scalability Performance Deployment Great things never come from comfort zones. Data Science Dream big and dare to fail. Blockchain Do what you love and the money will follow. Data Pipeline
+React Edge Computing UX Optimization WebSockets I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Big Data Stay hungry, stay foolish. Container Orchestration Artificial Intelligence IoT Predictive Analytics
