@@ -19,3 +19,4 @@ Data Pipeline Scalability Happiness is not something ready made. It comes from y
 Machine Learning Success is how high you bounce when you hit bottom. Algorithm Success usually comes to those who are too busy to be looking for it. Data Pipeline Message Queue Kafka Replica Set
 Performance Optimization Parallel Processing Scalability Predictive Analytics Data Science Serverless Dream big and dare to fail. NLP Event-driven Architecture Simplicity is the ultimate sophistication.
 Security RabbitMQ Algorithm Predictive Analytics OAuth
+JavaScript Simplicity is the ultimate sophistication. Pull Request Dream big and dare to fail. Latency Optimization To be the best, you must be able to handle the worst. DNS Routing Opportunities don't happen. You create them. Stay hungry, stay foolish.
