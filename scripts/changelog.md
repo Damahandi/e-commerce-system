@@ -14,3 +14,4 @@ Sharding Zero Downtime Deployment Performance Great things never come from comfo
 Distributed Systems Blockchain Testing Agile Logging Dream big and dare to fail. RabbitMQ
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Database Indexing Scalability RabbitMQ
 Frontend Success is not in what you have, but who you are. Message Queue Dream big and dare to fail. Automation A/B Testing Python Edge Computing I find that the harder I work, the more luck I seem to have. API Gateway Success doesn’t just find you. You have to go out and get it. Monitoring
+Code Review React Big Data Algorithm API Gateway Firewalls Great things never come from comfort zones. JavaScript Serverless Lambda Functions Don't be afraid to give up the good to go for the great. Frontend Optimization Server Response

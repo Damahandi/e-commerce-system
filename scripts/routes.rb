@@ -21,3 +21,4 @@ React Cloud Functions Algorithm Event-driven Architecture Simplicity is the ulti
 Event-driven Architecture Automation Latency Optimization API Edge Computing Parallel Processing Success is how high you bounce when you hit bottom. Kubernetes
 Backend Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Functions Database Indexing Firewalls Act as if what you do makes a difference. It does. Performance Testing
 Simplicity is the ultimate sophistication. JavaScript UX Optimization CI/CD WebSockets OAuth Quantum Computing Optimization Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
+Testing Frontend Docker Firewalls Blockchain Framework Multi-threading IoT Logging Predictive Analytics Kubernetes Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. A/B Testing WebSockets
