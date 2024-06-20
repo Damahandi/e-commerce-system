@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Do what you love and t
 Optimization Work hard in silence, let your success be your noise. Algorithm Big Data Machine Learning IoT Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. Lambda Functions Database Indexing Edge Computing Opportunities don't happen. You create them. Multi-threading Event-driven Architecture GraphQL Content Delivery Network
 Latency Optimization Machine Learning Version Control Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Do what you love and the money will follow. Server Response Innovation distinguishes between a leader and a follower. Code Review Performance React
+Stay hungry, stay foolish. Do what you love and the money will follow. Agile Frontend Lambda Functions

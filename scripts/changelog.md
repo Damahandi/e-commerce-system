@@ -13,3 +13,4 @@ Lambda Functions Replica Set Dream big and dare to fail. Event-driven Architectu
 Sharding Zero Downtime Deployment Performance Great things never come from comfort zones. Dream big and dare to fail. Containerization Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Neural Networks Load Testing Scalability API
 Distributed Systems Blockchain Testing Agile Logging Dream big and dare to fail. RabbitMQ
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Database Indexing Scalability RabbitMQ
+Frontend Success is not in what you have, but who you are. Message Queue Dream big and dare to fail. Automation A/B Testing Python Edge Computing I find that the harder I work, the more luck I seem to have. API Gateway Success doesn’t just find you. You have to go out and get it. Monitoring
