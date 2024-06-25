@@ -14,3 +14,4 @@ Opportunities don't happen. You create them. Database Indexing CI/CD Virtual Mac
 JWT Algorithm Framework Machine Learning Code Review
 Serverless Virtual Machines JWT JavaScript Database Indexing UX Optimization
 Framework Artificial Intelligence To be the best, you must be able to handle the worst. JavaScript Stay hungry, stay foolish. Event Sourcing Simplicity is the ultimate sophistication. GraphQL Edge Computing Machine Learning Optimization OAuth Don't be afraid to give up the good to go for the great. Frontend Do what you love and the money will follow.
+Optimization Microservices Lambda Functions Big Data NLP JWT Kafka OAuth IoT
