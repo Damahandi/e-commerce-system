@@ -9,3 +9,4 @@ Sharding UX Optimization Work hard in silence, let your success be your noise. D
 Python Security Machine Learning Agile I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Backend Server Response Kafka
 Serverless Success is how high you bounce when you hit bottom. Code Review Message Queue Optimization Agile Difficult roads often lead to beautiful destinations.
 Monitoring Big Data Event-driven Architecture Success is how high you bounce when you hit bottom. React Container Orchestration JWT Optimization Data Science Automation Testing Parallel Processing WebSockets
+Serverless Edge Computing Lambda Functions Great things never come from comfort zones. Blockchain CI/CD Security
