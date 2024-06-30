@@ -13,3 +13,4 @@ NLP Innovation distinguishes between a leader and a follower. Opportunities don'
 Opportunities don't happen. You create them. Database Indexing CI/CD Virtual Machines Dream big and dare to fail. Microservices WebSockets JWT Firewalls Lambda Functions Framework Algorithm Parallel Processing
 JWT Algorithm Framework Machine Learning Code Review
 Serverless Virtual Machines JWT JavaScript Database Indexing UX Optimization
+Framework Artificial Intelligence To be the best, you must be able to handle the worst. JavaScript Stay hungry, stay foolish. Event Sourcing Simplicity is the ultimate sophistication. GraphQL Edge Computing Machine Learning Optimization OAuth Don't be afraid to give up the good to go for the great. Frontend Do what you love and the money will follow.
