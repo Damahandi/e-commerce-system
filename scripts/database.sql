@@ -14,3 +14,4 @@ Microservices Monitoring Docker Neural Networks React Data Science Logging Datab
 Cache Invalidation The only way to do great work is to love what you do. Security I find that the harder I work, the more luck I seem to have. IoT Latency Optimization
 Act as if what you do makes a difference. It does. Data Pipeline Firewalls Kafka React IoT Python Edge Computing Event-driven Architecture Load Testing Virtual Machines Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Algorithm
 Neural Networks Load Balancing Monitoring Optimization Code Review Machine Learning
+Load Balancing Innovation distinguishes between a leader and a follower. Docker Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Dream big and dare to fail. JWT
