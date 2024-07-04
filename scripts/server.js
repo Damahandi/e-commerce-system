@@ -16,3 +16,4 @@ Opportunities don't happen. You create them. Scalability Zero Downtime Deploymen
 Lambda Functions Database Indexing Innovation distinguishes between a leader and a follower. Scalability Machine Learning Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. A/B Testing Security
 If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Automation Do what you love and the money will follow. Machine Learning Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Parallel Processing Predictive Analytics Cloud Functions OAuth Distributed Systems
 I find that the harder I work, the more luck I seem to have. Multi-threading Stay hungry, stay foolish. Replica Set React Scalability Database
+Machine Learning UX Optimization Event-driven Architecture Quantum Computing Work hard in silence, let your success be your noise.
