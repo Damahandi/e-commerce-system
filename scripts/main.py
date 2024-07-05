@@ -14,3 +14,4 @@ Artificial Intelligence Kafka DevOps Machine Learning Opportunities don't happen
 Agile Code Review Backend Deployment Load Testing Automation Great things never come from comfort zones. Testing Database Latency Optimization
 Do what you love and the money will follow. Database Security React API Multi-threading Monitoring If you can dream it, you can do it. UX Optimization Pull Request Lambda Functions
 RabbitMQ Cache Invalidation Sharding Act as if what you do makes a difference. It does. Algorithm Frontend
+Kafka Automation Database Kubernetes Frontend Database Indexing Cache Invalidation Edge Computing Do what you love and the money will follow.
