@@ -19,3 +19,4 @@ Don't be afraid to give up the good to go for the great. Success doesn’t just fi
 Python Data Pipeline Deployment Work hard in silence, let your success be your noise. API Gateway Replica Set Framework Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Dream big and dare to fail. RabbitMQ A/B Testing
 React Cloud Functions Algorithm Event-driven Architecture Simplicity is the ultimate sophistication. Framework DNS Routing Success is not in what you have, but who you are. Event Sourcing Python Kubernetes
 Event-driven Architecture Automation Latency Optimization API Edge Computing Parallel Processing Success is how high you bounce when you hit bottom. Kubernetes
+Backend Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Functions Database Indexing Firewalls Act as if what you do makes a difference. It does. Performance Testing
