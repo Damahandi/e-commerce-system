@@ -20,3 +20,4 @@ RabbitMQ Logging Pull Request Firewalls Data Science Performance GraphQL React
 Don't be afraid to give up the good to go for the great. Scalability Security IoT Kafka Neural Networks Replica Set Content Delivery Network
 Performance JavaScript OAuth Database Indexing DevOps Blockchain Innovation distinguishes between a leader and a follower. Backend
 Python Parallel Processing API Gateway The only way to do great work is to love what you do. Data Pipeline
+Data Pipeline Docker Difficult roads often lead to beautiful destinations. Containerization RabbitMQ Backend Automation Cloud Functions Act as if what you do makes a difference. It does. Predictive Analytics Scalability Parallel Processing Innovation distinguishes between a leader and a follower. API
