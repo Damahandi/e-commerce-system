@@ -12,3 +12,4 @@ Data Science The only way to do great work is to love what you do. Success is no
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Machine Learning Event Sourcing Data Pipeline Artificial Intelligence
 Artificial Intelligence Kafka DevOps Machine Learning Opportunities don't happen. You create them. Server Response Replica Set Pull Request
 Agile Code Review Backend Deployment Load Testing Automation Great things never come from comfort zones. Testing Database Latency Optimization
+Do what you love and the money will follow. Database Security React API Multi-threading Monitoring If you can dream it, you can do it. UX Optimization Pull Request Lambda Functions
