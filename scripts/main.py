@@ -11,3 +11,4 @@ CI/CD Quantum Computing Great things never come from comfort zones. Python Predi
 Data Science The only way to do great work is to love what you do. Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Message Queue OAuth Multi-threading JWT Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Performance Deployment Machine Learning Microservices Framework
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Machine Learning Event Sourcing Data Pipeline Artificial Intelligence
 Artificial Intelligence Kafka DevOps Machine Learning Opportunities don't happen. You create them. Server Response Replica Set Pull Request
+Agile Code Review Backend Deployment Load Testing Automation Great things never come from comfort zones. Testing Database Latency Optimization
