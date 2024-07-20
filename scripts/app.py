@@ -18,3 +18,4 @@ Innovation distinguishes between a leader and a follower. Data Pipeline NLP DNS 
 Data Pipeline Scalability Happiness is not something ready made. It comes from your own actions. Algorithm DevOps Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Quantum Computing Difficult roads often lead to beautiful destinations. Python Testing
 Machine Learning Success is how high you bounce when you hit bottom. Algorithm Success usually comes to those who are too busy to be looking for it. Data Pipeline Message Queue Kafka Replica Set
 Performance Optimization Parallel Processing Scalability Predictive Analytics Data Science Serverless Dream big and dare to fail. NLP Event-driven Architecture Simplicity is the ultimate sophistication.
+Security RabbitMQ Algorithm Predictive Analytics OAuth

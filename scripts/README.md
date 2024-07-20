@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Kafka Quantum Computing Dist
 Framework JWT Virtual Machines Load Testing Success is how high you bounce when you hit bottom. Machine Learning Sharding NLP
 Docker Success usually comes to those who are too busy to be looking for it. Distributed Systems Message Queue Data Science Predictive Analytics Serverless Blockchain Database Deployment Latency Optimization Load Balancing
 Opportunities don't happen. You create them. Latency Optimization Framework JWT Success is how high you bounce when you hit bottom. Multi-threading API I find that the harder I work, the more luck I seem to have. React
+Multi-threading Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Containerization If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Cloud Content Delivery Network
