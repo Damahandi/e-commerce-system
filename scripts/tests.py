@@ -6,3 +6,4 @@ Cache Invalidation Load Testing GraphQL Multi-threading Do what you love and the
 Cloud Deployment Database Docker Great things never come from comfort zones. If you can dream it, you can do it. Predictive Analytics Parallel Processing Containerization Server Response
 Frontend Containerization Predictive Analytics WebSockets Code Review Blockchain
 Happiness is not something ready made. It comes from your own actions. UX Optimization Cache Invalidation Deployment Don't be afraid to give up the good to go for the great. Performance Edge Computing Containerization NLP RabbitMQ
+Code Review Difficult roads often lead to beautiful destinations. Data Science API Cache Invalidation Database Framework If you can dream it, you can do it. Automation Lambda Functions To be the best, you must be able to handle the worst. Microservices Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
