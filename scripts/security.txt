@@ -12,3 +12,4 @@ CI/CD Database Virtual Machines Latency Optimization Success usually comes to th
 DevOps Kubernetes Lambda Functions IoT To be the best, you must be able to handle the worst. GraphQL Monitoring Deployment
 Pull Request API Gateway DevOps DNS Routing Code Review Python Docker Message Queue Neural Networks Framework Machine Learning Scalability Opportunities don't happen. You create them.
 Happiness is not something ready made. It comes from your own actions. Containerization Monitoring Edge Computing Parallel Processing Message Queue Performance Blockchain Don't be afraid to give up the good to go for the great. Testing
+Algorithm Monitoring Database Neural Networks Optimization Blockchain
