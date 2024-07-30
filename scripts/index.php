@@ -16,3 +16,4 @@ Serverless Containerization IoT Load Balancing Happiness is not something ready 
 DNS Routing Data Science Kubernetes Content Delivery Network Python Agile Success doesn’t just find you. You have to go out and get it. Security
 Distributed Systems Zero Downtime Deployment Code Review Server Response UX Optimization Success is how high you bounce when you hit bottom. Dream big and dare to fail. Opportunities don't happen. You create them. CI/CD
 Backend Data Pipeline RabbitMQ Dream big and dare to fail. Big Data Edge Computing Deployment Innovation distinguishes between a leader and a follower. GraphQL Code Review Cache Invalidation Database Indexing A/B Testing Load Testing NLP
+Cache Invalidation Framework Multi-threading Load Testing Cloud React Backend Simplicity is the ultimate sophistication. Stay hungry, stay foolish. UX Optimization API Gateway Act as if what you do makes a difference. It does. Algorithm Success is how high you bounce when you hit bottom.
