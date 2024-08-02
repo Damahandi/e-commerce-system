@@ -9,3 +9,4 @@ Version Control Work hard in silence, let your success be your noise. Blockchain
 Optimization Stay hungry, stay foolish. Dream big and dare to fail. Cloud Testing Success doesn’t just find you. You have to go out and get it. Artificial Intelligence CI/CD DNS Routing
 GraphQL Parallel Processing Distributed Systems OAuth Cloud Kubernetes Server Response Python DNS Routing To be the best, you must be able to handle the worst. Security Monitoring API Event-driven Architecture Serverless
 Database Indexing Data Science DNS Routing Big Data Firewalls Latency Optimization Dream big and dare to fail. A/B Testing Cloud Functions Act as if what you do makes a difference. It does. If you can dream it, you can do it. Event-driven Architecture Success doesn’t just find you. You have to go out and get it.
+UX Optimization Big Data Microservices Testing Data Science
