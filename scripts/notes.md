@@ -7,3 +7,4 @@ IoT Virtual Machines Deployment Database Indexing Neural Networks Docker I find 
 Frontend Great things never come from comfort zones. Testing Deployment Algorithm To be the best, you must be able to handle the worst. Edge Computing Cloud Kafka Do what you love and the money will follow. Simplicity is the ultimate sophistication. Server Response CI/CD
 Stay hungry, stay foolish. CI/CD API Backend Message Queue Framework Security Great things never come from comfort zones. Event-driven Architecture Neural Networks
 CI/CD IoT Success is how high you bounce when you hit bottom. Python API Predictive Analytics Replica Set Load Balancing Agile Code Review Event Sourcing NLP Lambda Functions
+DNS Routing Content Delivery Network Cache Invalidation Pull Request Success is not in what you have, but who you are. Backend Cloud Functions Parallel Processing Distributed Systems Virtual Machines API Gateway Edge Computing
