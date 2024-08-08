@@ -12,3 +12,4 @@ Container Orchestration Distributed Systems Parallel Processing To be the best, 
 Blockchain Event-driven Architecture Predictive Analytics Framework Kafka
 Microservices Monitoring Docker Neural Networks React Data Science Logging Database Indexing Kubernetes
 Cache Invalidation The only way to do great work is to love what you do. Security I find that the harder I work, the more luck I seem to have. IoT Latency Optimization
+Act as if what you do makes a difference. It does. Data Pipeline Firewalls Kafka React IoT Python Edge Computing Event-driven Architecture Load Testing Virtual Machines Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Algorithm
