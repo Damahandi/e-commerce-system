@@ -10,3 +10,4 @@ Sharding Success usually comes to those who are too busy to be looking for it. L
 Replica Set API Gateway Data Science I find that the harder I work, the more luck I seem to have. Quantum Computing Simplicity is the ultimate sophistication. Message Queue A/B Testing Success is not in what you have, but who you are.
 CI/CD Database Virtual Machines Latency Optimization Success usually comes to those who are too busy to be looking for it. UX Optimization Serverless Automation
 DevOps Kubernetes Lambda Functions IoT To be the best, you must be able to handle the worst. GraphQL Monitoring Deployment
+Pull Request API Gateway DevOps DNS Routing Code Review Python Docker Message Queue Neural Networks Framework Machine Learning Scalability Opportunities don't happen. You create them.
