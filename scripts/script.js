@@ -12,3 +12,4 @@ Logging Load Balancing Cloud Functions Firewalls Algorithm Data Science JWT Perf
 NLP Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Optimization Testing Kafka RabbitMQ Backend IoT
 Opportunities don't happen. You create them. Database Indexing CI/CD Virtual Machines Dream big and dare to fail. Microservices WebSockets JWT Firewalls Lambda Functions Framework Algorithm Parallel Processing
 JWT Algorithm Framework Machine Learning Code Review
+Serverless Virtual Machines JWT JavaScript Database Indexing UX Optimization
