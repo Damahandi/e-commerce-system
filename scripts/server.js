@@ -13,3 +13,4 @@ Innovation distinguishes between a leader and a follower. Neural Networks Agile 
 Parallel Processing JavaScript Content Delivery Network Code Review Work hard in silence, let your success be your noise. Kubernetes Automation Docker Simplicity is the ultimate sophistication. Load Testing
 NLP Deployment Zero Downtime Deployment Predictive Analytics WebSockets Container Orchestration
 Opportunities don't happen. You create them. Scalability Zero Downtime Deployment Distributed Systems Do what you love and the money will follow. Security Containerization Stay hungry, stay foolish.
+Lambda Functions Database Indexing Innovation distinguishes between a leader and a follower. Scalability Machine Learning Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. A/B Testing Security
