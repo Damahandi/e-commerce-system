@@ -8,3 +8,4 @@ Lambda Functions Big Data API Gateway Stay hungry, stay foolish. Great things ne
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Frontend Lambda Functions Firewalls Security Containerization
 JWT Pull Request Optimization Replica Set Cloud Functions Neural Networks Success doesn’t just find you. You have to go out and get it. Docker Sharding Difficult roads often lead to beautiful destinations. OAuth Algorithm Success usually comes to those who are too busy to be looking for it. Kubernetes
 Edge Computing Optimization Docker Deployment Dream big and dare to fail. Monitoring CI/CD Latency Optimization Neural Networks To be the best, you must be able to handle the worst. Frontend Quantum Computing Database Indexing
+Optimization The only way to do great work is to love what you do. Load Testing WebSockets Predictive Analytics
