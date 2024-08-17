@@ -14,3 +14,4 @@ Python Frontend Simplicity is the ultimate sophistication. WebSockets Difficult 
 UX Optimization Sharding Cloud Functions Opportunities don't happen. You create them. GraphQL NLP Backend Replica Set Kafka Scalability Artificial Intelligence Success doesn’t just find you. You have to go out and get it.
 Serverless Containerization IoT Load Balancing Happiness is not something ready made. It comes from your own actions. Event Sourcing Deployment Lambda Functions Act as if what you do makes a difference. It does. Zero Downtime Deployment Agile Stay hungry, stay foolish. WebSockets
 DNS Routing Data Science Kubernetes Content Delivery Network Python Agile Success doesn’t just find you. You have to go out and get it. Security
+Distributed Systems Zero Downtime Deployment Code Review Server Response UX Optimization Success is how high you bounce when you hit bottom. Dream big and dare to fail. Opportunities don't happen. You create them. CI/CD
