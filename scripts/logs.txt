@@ -15,3 +15,4 @@ Database Indexing Content Delivery Network If you can dream it, you can do it. S
 Database Frontend Deployment Algorithm Parallel Processing
 The only way to do great work is to love what you do. Blockchain JWT Scalability Framework Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. A/B Testing Cache Invalidation Load Balancing
 Zero Downtime Deployment Containerization Big Data Stay hungry, stay foolish. Framework Automation GraphQL Security UX Optimization Edge Computing Success doesn’t just find you. You have to go out and get it. OAuth Sharding Difficult roads often lead to beautiful destinations.
+OAuth Container Orchestration Frontend WebSockets Do what you love and the money will follow. Success is how high you bounce when you hit bottom.
