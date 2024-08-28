@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Don't be afraid to give up th
 React Latency Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Agile Firewalls Logging Containerization Act as if what you do makes a difference. It does. Data Pipeline
 Pull Request Database Indexing Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. WebSockets Do what you love and the money will follow. RabbitMQ Performance Big Data Event-driven Architecture Virtual Machines Algorithm Event Sourcing Opportunities don't happen. You create them. Containerization
 Containerization RabbitMQ Firewalls Blockchain Kafka
+Sharding UX Optimization Work hard in silence, let your success be your noise. DNS Routing Cloud
