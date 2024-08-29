@@ -13,3 +13,4 @@ Load Testing The only way to do great work is to love what you do. Microservices
 DNS Routing Firewalls Blockchain Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. API Success doesn’t just find you. You have to go out and get it. Multi-threading Dream big and dare to fail. Load Testing Server Response
 Event-driven Architecture GraphQL WebSockets DevOps Serverless IoT Lambda Functions Dream big and dare to fail. Machine Learning Quantum Computing Containerization Neural Networks JWT Message Queue Distributed Systems
 API Gateway Performance NLP DevOps DNS Routing Big Data Pull Request
+NLP Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Content Delivery Network Pull Request Database Indexing
