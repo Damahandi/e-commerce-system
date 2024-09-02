@@ -5,3 +5,4 @@ Cloud Functions Virtual Machines Dream big and dare to fail. Pull Request Data P
 Big Data Backend Code Review Performance Automation Security Innovation distinguishes between a leader and a follower. Replica Set Edge Computing Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail.
 IoT Virtual Machines Deployment Database Indexing Neural Networks Docker I find that the harder I work, the more luck I seem to have. Event-driven Architecture DNS Routing
 Frontend Great things never come from comfort zones. Testing Deployment Algorithm To be the best, you must be able to handle the worst. Edge Computing Cloud Kafka Do what you love and the money will follow. Simplicity is the ultimate sophistication. Server Response CI/CD
+Stay hungry, stay foolish. CI/CD API Backend Message Queue Framework Security Great things never come from comfort zones. Event-driven Architecture Neural Networks
