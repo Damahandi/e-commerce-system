@@ -11,3 +11,4 @@ Kafka Backend Load Balancing Testing I find that the harder I work, the more luc
 Logging Load Balancing Cloud Functions Firewalls Algorithm Data Science JWT Performance Success doesn’t just find you. You have to go out and get it.
 NLP Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Optimization Testing Kafka RabbitMQ Backend IoT
 Opportunities don't happen. You create them. Database Indexing CI/CD Virtual Machines Dream big and dare to fail. Microservices WebSockets JWT Firewalls Lambda Functions Framework Algorithm Parallel Processing
+JWT Algorithm Framework Machine Learning Code Review
