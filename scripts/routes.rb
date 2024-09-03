@@ -12,3 +12,4 @@ Optimization Distributed Systems Success is how high you bounce when you hit bot
 Load Testing The only way to do great work is to love what you do. Microservices Success is not in what you have, but who you are. Lambda Functions Security Predictive Analytics Kubernetes Code Review CI/CD Serverless Work hard in silence, let your success be your noise. Deployment
 DNS Routing Firewalls Blockchain Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. API Success doesn’t just find you. You have to go out and get it. Multi-threading Dream big and dare to fail. Load Testing Server Response
 Event-driven Architecture GraphQL WebSockets DevOps Serverless IoT Lambda Functions Dream big and dare to fail. Machine Learning Quantum Computing Containerization Neural Networks JWT Message Queue Distributed Systems
+API Gateway Performance NLP DevOps DNS Routing Big Data Pull Request
