@@ -11,3 +11,4 @@ JWT Great things never come from comfort zones. CI/CD Backend Load Balancing Rea
 Success usually comes to those who are too busy to be looking for it. WebSockets Replica Set DNS Routing Kafka Version Control Sharding Quantum Computing Agile Security Big Data
 Innovation distinguishes between a leader and a follower. Neural Networks Agile Deployment Logging Success doesn’t just find you. You have to go out and get it.
 Parallel Processing JavaScript Content Delivery Network Code Review Work hard in silence, let your success be your noise. Kubernetes Automation Docker Simplicity is the ultimate sophistication. Load Testing
+NLP Deployment Zero Downtime Deployment Predictive Analytics WebSockets Container Orchestration
