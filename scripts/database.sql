@@ -11,3 +11,4 @@ Load Balancing Cloud Server Response Difficult roads often lead to beautiful des
 Container Orchestration Distributed Systems Parallel Processing To be the best, you must be able to handle the worst. Kafka NLP Serverless Monitoring Logging Success is how high you bounce when you hit bottom.
 Blockchain Event-driven Architecture Predictive Analytics Framework Kafka
 Microservices Monitoring Docker Neural Networks React Data Science Logging Database Indexing Kubernetes
+Cache Invalidation The only way to do great work is to love what you do. Security I find that the harder I work, the more luck I seem to have. IoT Latency Optimization

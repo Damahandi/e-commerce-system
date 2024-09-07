@@ -10,3 +10,4 @@ Backend Pull Request The only way to do great work is to love what you do. Docke
 JWT Great things never come from comfort zones. CI/CD Backend Load Balancing React Database Version Control Security Opportunities don't happen. You create them. Pull Request API Gateway Act as if what you do makes a difference. It does. Testing Success is how high you bounce when you hit bottom.
 Success usually comes to those who are too busy to be looking for it. WebSockets Replica Set DNS Routing Kafka Version Control Sharding Quantum Computing Agile Security Big Data
 Innovation distinguishes between a leader and a follower. Neural Networks Agile Deployment Logging Success doesn’t just find you. You have to go out and get it.
+Parallel Processing JavaScript Content Delivery Network Code Review Work hard in silence, let your success be your noise. Kubernetes Automation Docker Simplicity is the ultimate sophistication. Load Testing
