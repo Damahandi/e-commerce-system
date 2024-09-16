@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Multi-threading Success is not in w
 Docker To be the best, you must be able to handle the worst. Zero Downtime Deployment RabbitMQ Difficult roads often lead to beautiful destinations. Event-driven Architecture Lambda Functions Automation Artificial Intelligence Data Pipeline Predictive Analytics Framework
 API Security WebSockets Act as if what you do makes a difference. It does. Multi-threading
 Neural Networks Kafka Data Pipeline Big Data API Gateway Serverless
+Act as if what you do makes a difference. It does. NLP GraphQL Parallel Processing Data Science Load Testing If you can dream it, you can do it. IoT Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Version Control Framework Success usually comes to those who are too busy to be looking for it. Artificial Intelligence
