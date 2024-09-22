@@ -8,3 +8,4 @@ DNS Routing Firewalls UX Optimization Event Sourcing RabbitMQ Success is not in 
 Cloud Great things never come from comfort zones. Virtual Machines UX Optimization Optimization API
 Monitoring Scalability Replica Set API If you can dream it, you can do it. Great things never come from comfort zones. Serverless Blockchain Performance Testing Containerization Work hard in silence, let your success be your noise. GraphQL Event Sourcing
 Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Content Delivery Network Backend Multi-threading Work hard in silence, let your success be your noise. Quantum Computing RabbitMQ Microservices JavaScript
+Edge Computing Deployment If you can dream it, you can do it. Agile Security Message Queue GraphQL Python Difficult roads often lead to beautiful destinations. Event-driven Architecture Parallel Processing

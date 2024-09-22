@@ -12,3 +12,4 @@ Opportunities don't happen. You create them. Machine Learning Multi-threading Di
 Innovation distinguishes between a leader and a follower. Multi-threading Logging Data Science Stay hungry, stay foolish. Cloud Optimization Python
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Monitoring Docker Data Science JWT Stay hungry, stay foolish. Do what you love and the money will follow. A/B Testing Optimization Server Response Logging
 Database Indexing Content Delivery Network If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Version Control Cache Invalidation Blockchain Simplicity is the ultimate sophistication. Latency Optimization Monitoring Lambda Functions Opportunities don't happen. You create them. Server Response
+Database Frontend Deployment Algorithm Parallel Processing
