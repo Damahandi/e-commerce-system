@@ -4,3 +4,4 @@ Algorithm Artificial Intelligence Distributed Systems Innovation distinguishes b
 WebSockets Event Sourcing Automation Data Science Logging Success is not in what you have, but who you are. Virtual Machines Database Indexing Sharding Version Control Opportunities don't happen. You create them. Backend
 Zero Downtime Deployment OAuth Testing Replica Set Agile Event Sourcing Logging JavaScript Cloud Functions Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Lambda Functions
 Frontend Dream big and dare to fail. Kafka Kubernetes Version Control Big Data Sharding Deployment Containerization UX Optimization Difficult roads often lead to beautiful destinations.
+Great things never come from comfort zones. IoT Frontend To be the best, you must be able to handle the worst. Data Science Event Sourcing Monitoring
