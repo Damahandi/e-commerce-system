@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Parallel Processing Rea
 Agile Virtual Machines CI/CD Frontend Edge Computing
 DevOps Great things never come from comfort zones. DNS Routing Database RabbitMQ Backend Happiness is not something ready made. It comes from your own actions. Version Control React
 Optimization Distributed Systems Success is how high you bounce when you hit bottom. CI/CD Container Orchestration Data Science
+Load Testing The only way to do great work is to love what you do. Microservices Success is not in what you have, but who you are. Lambda Functions Security Predictive Analytics Kubernetes Code Review CI/CD Serverless Work hard in silence, let your success be your noise. Deployment
