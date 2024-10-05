@@ -8,3 +8,4 @@ Docker Latency Optimization Kubernetes RabbitMQ JWT
 Don't be afraid to give up the good to go for the great. Parallel Processing React Performance Testing Deployment Database Indexing Predictive Analytics Simplicity is the ultimate sophistication. Docker Success is not in what you have, but who you are. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. OAuth WebSockets
 Agile Virtual Machines CI/CD Frontend Edge Computing
 DevOps Great things never come from comfort zones. DNS Routing Database RabbitMQ Backend Happiness is not something ready made. It comes from your own actions. Version Control React
+Optimization Distributed Systems Success is how high you bounce when you hit bottom. CI/CD Container Orchestration Data Science
