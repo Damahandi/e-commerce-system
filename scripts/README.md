@@ -7,3 +7,4 @@ Sharding I find that the harder I work, the more luck I seem to have. JWT Event 
 DNS Routing Firewalls UX Optimization Event Sourcing RabbitMQ Success is not in what you have, but who you are. Sharding Optimization Load Balancing Innovation distinguishes between a leader and a follower.
 Cloud Great things never come from comfort zones. Virtual Machines UX Optimization Optimization API
 Monitoring Scalability Replica Set API If you can dream it, you can do it. Great things never come from comfort zones. Serverless Blockchain Performance Testing Containerization Work hard in silence, let your success be your noise. GraphQL Event Sourcing
+Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Content Delivery Network Backend Multi-threading Work hard in silence, let your success be your noise. Quantum Computing RabbitMQ Microservices JavaScript
