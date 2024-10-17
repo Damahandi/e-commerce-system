@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. Event Sourcing Predictive Analytics
 Python NLP Stay hungry, stay foolish. Serverless Don't be afraid to give up the good to go for the great.
 Kafka Backend Load Balancing Testing I find that the harder I work, the more luck I seem to have. NLP Firewalls DevOps Kubernetes Big Data Agile Server Response Event-driven Architecture
 Logging Load Balancing Cloud Functions Firewalls Algorithm Data Science JWT Performance Success doesn’t just find you. You have to go out and get it.
+NLP Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Optimization Testing Kafka RabbitMQ Backend IoT
