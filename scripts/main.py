@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. Microservices Scalability 
 Monitoring GraphQL Machine Learning Container Orchestration Serverless Data Science Dream big and dare to fail. Code Review To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower.
 Opportunities don't happen. You create them. Multi-threading Success is not in what you have, but who you are. A/B Testing WebSockets Dream big and dare to fail. Kafka React Agile
 Docker To be the best, you must be able to handle the worst. Zero Downtime Deployment RabbitMQ Difficult roads often lead to beautiful destinations. Event-driven Architecture Lambda Functions Automation Artificial Intelligence Data Pipeline Predictive Analytics Framework
+API Security WebSockets Act as if what you do makes a difference. It does. Multi-threading
