@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Distributed Systems Automation
 Opportunities don't happen. You create them. Event Sourcing Predictive Analytics Lambda Functions Testing Monitoring Framework Cache Invalidation Artificial Intelligence Pull Request Container Orchestration
 Python NLP Stay hungry, stay foolish. Serverless Don't be afraid to give up the good to go for the great.
 Kafka Backend Load Balancing Testing I find that the harder I work, the more luck I seem to have. NLP Firewalls DevOps Kubernetes Big Data Agile Server Response Event-driven Architecture
+Logging Load Balancing Cloud Functions Firewalls Algorithm Data Science JWT Performance Success doesn’t just find you. You have to go out and get it.
