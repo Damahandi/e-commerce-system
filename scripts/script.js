@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. JWT Code Review Work hard 
 Success is not in what you have, but who you are. Distributed Systems Automation Dream big and dare to fail. Docker Happiness is not something ready made. It comes from your own actions. Cloud Functions Virtual Machines Load Testing
 Opportunities don't happen. You create them. Event Sourcing Predictive Analytics Lambda Functions Testing Monitoring Framework Cache Invalidation Artificial Intelligence Pull Request Container Orchestration
 Python NLP Stay hungry, stay foolish. Serverless Don't be afraid to give up the good to go for the great.
+Kafka Backend Load Balancing Testing I find that the harder I work, the more luck I seem to have. NLP Firewalls DevOps Kubernetes Big Data Agile Server Response Event-driven Architecture
