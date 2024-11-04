@@ -6,3 +6,4 @@ RabbitMQ Algorithm Firewalls Automation Simplicity is the ultimate sophisticatio
 The only way to do great work is to love what you do. JWT Code Review Work hard in silence, let your success be your noise. Load Balancing Event Sourcing Monitoring NLP Stay hungry, stay foolish. A/B Testing GraphQL API Edge Computing I find that the harder I work, the more luck I seem to have.
 Success is not in what you have, but who you are. Distributed Systems Automation Dream big and dare to fail. Docker Happiness is not something ready made. It comes from your own actions. Cloud Functions Virtual Machines Load Testing
 Opportunities don't happen. You create them. Event Sourcing Predictive Analytics Lambda Functions Testing Monitoring Framework Cache Invalidation Artificial Intelligence Pull Request Container Orchestration
+Python NLP Stay hungry, stay foolish. Serverless Don't be afraid to give up the good to go for the great.
