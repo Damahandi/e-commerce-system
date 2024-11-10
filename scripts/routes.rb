@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. JavaScript Docker V
 Load Balancing Automation Event Sourcing Performance Firewalls Monitoring
 Docker Latency Optimization Kubernetes RabbitMQ JWT
 Don't be afraid to give up the good to go for the great. Parallel Processing React Performance Testing Deployment Database Indexing Predictive Analytics Simplicity is the ultimate sophistication. Docker Success is not in what you have, but who you are. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. OAuth WebSockets
+Agile Virtual Machines CI/CD Frontend Edge Computing

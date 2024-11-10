@@ -6,3 +6,4 @@ Distributed Systems Python React Security API
 API Gateway A/B Testing Docker Framework Testing DNS Routing Success usually comes to those who are too busy to be looking for it.
 Opportunities don't happen. You create them. Optimization Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. NLP
 Load Balancing Pull Request Microservices Opportunities don't happen. You create them. Serverless Content Delivery Network A/B Testing Act as if what you do makes a difference. It does. Database Latency Optimization Distributed Systems Framework Security
+Performance Load Balancing Machine Learning Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Deployment Monitoring Sharding Firewalls Distributed Systems NLP Server Response Lambda Functions
