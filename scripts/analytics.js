@@ -1,3 +1,4 @@
 Edge Computing Do what you love and the money will follow. Event-driven Architecture RabbitMQ Performance Data Pipeline Distributed Systems Serverless IoT Cache Invalidation Docker I find that the harder I work, the more luck I seem to have. Automation Load Balancing
 Cache Invalidation Latency Optimization Distributed Systems Success is how high you bounce when you hit bottom. GraphQL Testing Docker
 Data Science Cache Invalidation Success doesn’t just find you. You have to go out and get it. Pull Request Edge Computing Don't be afraid to give up the good to go for the great. Logging Frontend Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. UX Optimization Containerization Sharding
+The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. API Gateway Dream big and dare to fail. Cache Invalidation Database
