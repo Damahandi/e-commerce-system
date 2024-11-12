@@ -5,3 +5,4 @@ NLP Serverless Security Data Science Lambda Functions Multi-threading Code Revie
 Version Control Docker Virtual Machines UX Optimization A/B Testing Replica Set Work hard in silence, let your success be your noise.
 Zero Downtime Deployment Kafka Firewalls IoT Server Response JavaScript
 Data Pipeline Framework Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. JWT
+Pull Request If you can dream it, you can do it. Sharding Simplicity is the ultimate sophistication. JavaScript Stay hungry, stay foolish. JWT
