@@ -6,3 +6,4 @@ Message Queue Simplicity is the ultimate sophistication. Parallel Processing Rep
 Serverless Code Review Big Data Stay hungry, stay foolish. UX Optimization
 Great things never come from comfort zones. Big Data Load Balancing Backend Security Frontend Performance DevOps DNS Routing Agile Docker Machine Learning
 Neural Networks Data Pipeline Database Indexing Act as if what you do makes a difference. It does. Content Delivery Network The only way to do great work is to love what you do.
+Cloud Functions Great things never come from comfort zones. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Lambda Functions Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Server Response DevOps

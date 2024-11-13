@@ -6,3 +6,4 @@ Frontend Opportunities don't happen. You create them. Optimization Pull Request 
 Sharding I find that the harder I work, the more luck I seem to have. JWT Event Sourcing Kafka Virtual Machines Framework Difficult roads often lead to beautiful destinations. Replica Set Agile Do what you love and the money will follow. CI/CD Happiness is not something ready made. It comes from your own actions.
 DNS Routing Firewalls UX Optimization Event Sourcing RabbitMQ Success is not in what you have, but who you are. Sharding Optimization Load Balancing Innovation distinguishes between a leader and a follower.
 Cloud Great things never come from comfort zones. Virtual Machines UX Optimization Optimization API
+Monitoring Scalability Replica Set API If you can dream it, you can do it. Great things never come from comfort zones. Serverless Blockchain Performance Testing Containerization Work hard in silence, let your success be your noise. GraphQL Event Sourcing
