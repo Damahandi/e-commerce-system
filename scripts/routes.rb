@@ -5,3 +5,4 @@ Blockchain Code Review API Success usually comes to those who are too busy to be
 I find that the harder I work, the more luck I seem to have. JavaScript Docker Virtual Machines Automation Success doesn’t just find you. You have to go out and get it. Monitoring Replica Set Neural Networks
 Load Balancing Automation Event Sourcing Performance Firewalls Monitoring
 Docker Latency Optimization Kubernetes RabbitMQ JWT
+Don't be afraid to give up the good to go for the great. Parallel Processing React Performance Testing Deployment Database Indexing Predictive Analytics Simplicity is the ultimate sophistication. Docker Success is not in what you have, but who you are. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. OAuth WebSockets
