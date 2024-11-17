@@ -4,3 +4,4 @@ Containerization Monitoring A/B Testing JWT I find that the harder I work, the m
 Kafka Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Load Testing IoT DNS Routing Success is not in what you have, but who you are. Event Sourcing Machine Learning Virtual Machines
 UX Optimization Cloud Functions Sharding Act as if what you do makes a difference. It does. Predictive Analytics Firewalls Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. JavaScript Deployment Algorithm
 Python Message Queue Success usually comes to those who are too busy to be looking for it. Big Data Happiness is not something ready made. It comes from your own actions. RabbitMQ UX Optimization
+React Kafka Container Orchestration A/B Testing NLP
