@@ -7,3 +7,4 @@ Microservices UX Optimization Machine Learning Simplicity is the ultimate sophis
 Opportunities don't happen. You create them. Blockchain CI/CD Machine Learning Server Response Virtual Machines WebSockets Parallel Processing
 The only way to do great work is to love what you do. Container Orchestration Virtual Machines Event Sourcing JavaScript To be the best, you must be able to handle the worst.
 Backend Pull Request The only way to do great work is to love what you do. Docker JavaScript Firewalls Database Indexing Opportunities don't happen. You create them. Machine Learning Message Queue Cloud Do what you love and the money will follow.
+JWT Great things never come from comfort zones. CI/CD Backend Load Balancing React Database Version Control Security Opportunities don't happen. You create them. Pull Request API Gateway Act as if what you do makes a difference. It does. Testing Success is how high you bounce when you hit bottom.
