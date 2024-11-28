@@ -5,3 +5,4 @@ Automation The only way to do great work is to love what you do. Success usually
 Innovation distinguishes between a leader and a follower. Python Virtual Machines Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Database OAuth Containerization Microservices Multi-threading CI/CD API
 Microservices CI/CD The only way to do great work is to love what you do. Automation Performance Firewalls Distributed Systems Dream big and dare to fail. JavaScript Cloud
 GraphQL Don't be afraid to give up the good to go for the great. Predictive Analytics Kafka Algorithm Quantum Computing Framework Edge Computing DNS Routing I find that the harder I work, the more luck I seem to have.
+Firewalls Agile JavaScript Performance Event-driven Architecture Success is how high you bounce when you hit bottom. React
