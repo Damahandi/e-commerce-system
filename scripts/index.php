@@ -5,3 +5,4 @@ Do what you love and the money will follow. Firewalls Version Control Opportunit
 Message Queue Simplicity is the ultimate sophistication. Parallel Processing Replica Set Work hard in silence, let your success be your noise.
 Serverless Code Review Big Data Stay hungry, stay foolish. UX Optimization
 Great things never come from comfort zones. Big Data Load Balancing Backend Security Frontend Performance DevOps DNS Routing Agile Docker Machine Learning
+Neural Networks Data Pipeline Database Indexing Act as if what you do makes a difference. It does. Content Delivery Network The only way to do great work is to love what you do.
