@@ -1,2 +1,3 @@
 Version Control Zero Downtime Deployment Parallel Processing Firewalls Content Delivery Network Data Pipeline Containerization Frontend I find that the harder I work, the more luck I seem to have. Distributed Systems Act as if what you do makes a difference. It does. Database
 Quantum Computing Blockchain Kafka Dream big and dare to fail. Server Response Success is how high you bounce when you hit bottom. Microservices Agile Sharding Predictive Analytics Happiness is not something ready made. It comes from your own actions. Multi-threading Load Testing Success doesn’t just find you. You have to go out and get it.
+Microservices Performance Neural Networks Quantum Computing Data Pipeline Cloud Docker Scalability Event Sourcing Virtual Machines Load Testing

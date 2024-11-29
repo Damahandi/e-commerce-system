@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Scalability Do what you love
 If you can dream it, you can do it. The only way to do great work is to love what you do. Performance Success doesn’t just find you. You have to go out and get it. Docker Blockchain Distributed Systems Great things never come from comfort zones. Framework Testing Deployment API Containerization Simplicity is the ultimate sophistication. UX Optimization
 Microservices UX Optimization Machine Learning Simplicity is the ultimate sophistication. Algorithm
 Opportunities don't happen. You create them. Blockchain CI/CD Machine Learning Server Response Virtual Machines WebSockets Parallel Processing
+The only way to do great work is to love what you do. Container Orchestration Virtual Machines Event Sourcing JavaScript To be the best, you must be able to handle the worst.
