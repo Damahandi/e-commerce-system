@@ -1,1 +1,2 @@
 Containerization Sharding Virtual Machines Replica Set Deployment Docker Cache Invalidation Container Orchestration Lambda Functions Logging Event-driven Architecture Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Server Response
+UX Optimization Automation A/B Testing Code Review Great things never come from comfort zones.

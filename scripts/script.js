@@ -3,3 +3,4 @@ Success usually comes to those who are too busy to be looking for it. Server Res
 Load Balancing A/B Testing JWT Content Delivery Network Container Orchestration Database Server Response Success is not in what you have, but who you are. Machine Learning Success is how high you bounce when you hit bottom. Quantum Computing Microservices Testing If you can dream it, you can do it.
 Quantum Computing Pull Request Logging Artificial Intelligence Machine Learning Kubernetes
 RabbitMQ Algorithm Firewalls Automation Simplicity is the ultimate sophistication. React Microservices Virtual Machines Testing Serverless JavaScript
+The only way to do great work is to love what you do. JWT Code Review Work hard in silence, let your success be your noise. Load Balancing Event Sourcing Monitoring NLP Stay hungry, stay foolish. A/B Testing GraphQL API Edge Computing I find that the harder I work, the more luck I seem to have.
