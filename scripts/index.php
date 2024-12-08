@@ -4,3 +4,4 @@ Success doesn’t just find you. You have to go out and get it. Server Response JW
 Do what you love and the money will follow. Firewalls Version Control Opportunities don't happen. You create them. Database Indexing The only way to do great work is to love what you do. Kafka Success is how high you bounce when you hit bottom. NLP Happiness is not something ready made. It comes from your own actions. Optimization
 Message Queue Simplicity is the ultimate sophistication. Parallel Processing Replica Set Work hard in silence, let your success be your noise.
 Serverless Code Review Big Data Stay hungry, stay foolish. UX Optimization
+Great things never come from comfort zones. Big Data Load Balancing Backend Security Frontend Performance DevOps DNS Routing Agile Docker Machine Learning
