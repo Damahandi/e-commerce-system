@@ -2,3 +2,4 @@ Success is how high you bounce when you hit bottom. Parallel Processing OAuth Mo
 Load Balancing JWT Latency Optimization Opportunities don't happen. You create them. Event Sourcing Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Pull Request Sharding Monitoring Quantum Computing Microservices Zero Downtime Deployment Backend
 Do what you love and the money will follow. Latency Optimization Framework Success is how high you bounce when you hit bottom. Frontend
 Blockchain Code Review API Success usually comes to those who are too busy to be looking for it. Performance UX Optimization Success doesn’t just find you. You have to go out and get it. Version Control Sharding
+I find that the harder I work, the more luck I seem to have. JavaScript Docker Virtual Machines Automation Success doesn’t just find you. You have to go out and get it. Monitoring Replica Set Neural Networks
