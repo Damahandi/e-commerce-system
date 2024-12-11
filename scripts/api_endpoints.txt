@@ -1,3 +1,4 @@
 Microservices Automation Multi-threading React Big Data Don't be afraid to give up the good to go for the great. Event-driven Architecture Docker Firewalls Artificial Intelligence Python DNS Routing Container Orchestration Edge Computing
 Database Blockchain Opportunities don't happen. You create them. JWT Firewalls Load Testing Edge Computing RabbitMQ Kubernetes Latency Optimization Cloud Functions The only way to do great work is to love what you do. NLP Microservices OAuth
 Algorithm Artificial Intelligence Distributed Systems Innovation distinguishes between a leader and a follower. Logging Python Containerization Monitoring
+WebSockets Event Sourcing Automation Data Science Logging Success is not in what you have, but who you are. Virtual Machines Database Indexing Sharding Version Control Opportunities don't happen. You create them. Backend
