@@ -1,1 +1,2 @@
 Edge Computing Do what you love and the money will follow. Event-driven Architecture RabbitMQ Performance Data Pipeline Distributed Systems Serverless IoT Cache Invalidation Docker I find that the harder I work, the more luck I seem to have. Automation Load Balancing
+Cache Invalidation Latency Optimization Distributed Systems Success is how high you bounce when you hit bottom. GraphQL Testing Docker

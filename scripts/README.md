@@ -3,3 +3,4 @@ Replica Set Deployment Big Data Latency Optimization The only way to do great wo
 Optimization Load Balancing Kafka Simplicity is the ultimate sophistication. Python Artificial Intelligence Load Testing Act as if what you do makes a difference. It does. A/B Testing Code Review Success is how high you bounce when you hit bottom.
 OAuth Scalability API WebSockets Algorithm Cache Invalidation Simplicity is the ultimate sophistication.
 Frontend Opportunities don't happen. You create them. Optimization Pull Request API Gateway
+Sharding I find that the harder I work, the more luck I seem to have. JWT Event Sourcing Kafka Virtual Machines Framework Difficult roads often lead to beautiful destinations. Replica Set Agile Do what you love and the money will follow. CI/CD Happiness is not something ready made. It comes from your own actions.
