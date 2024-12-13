@@ -3,3 +3,4 @@ Multi-threading Message Queue Deployment Optimization Edge Computing Data Pipeli
 Lambda Functions Message Queue Optimization A/B Testing To be the best, you must be able to handle the worst. Logging API Gateway Framework Cloud Functions Performance Docker Scalability OAuth Happiness is not something ready made. It comes from your own actions. WebSockets
 Algorithm DevOps Success usually comes to those who are too busy to be looking for it. Replica Set Automation IoT The only way to do great work is to love what you do. Data Pipeline
 Backend Deployment Neural Networks GraphQL Event-driven Architecture Code Review WebSockets Kafka Cache Invalidation Success doesn’t just find you. You have to go out and get it.
+Innovation distinguishes between a leader and a follower. Distributed Systems Backend Latency Optimization Monitoring Serverless Python Containerization
