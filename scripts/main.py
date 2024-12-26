@@ -1,1 +1,2 @@
 Difficult roads often lead to beautiful destinations. Microservices Scalability Do what you love and the money will follow. Version Control Data Science Cloud NLP Performance Optimization I find that the harder I work, the more luck I seem to have.
+Monitoring GraphQL Machine Learning Container Orchestration Serverless Data Science Dream big and dare to fail. Code Review To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower.
