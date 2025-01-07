@@ -3,3 +3,4 @@ Content Delivery Network Success doesn’t just find you. You have to go out and g
 Success doesn’t just find you. You have to go out and get it. Server Response JWT Content Delivery Network Algorithm Artificial Intelligence Event-driven Architecture Dream big and dare to fail. If you can dream it, you can do it. Data Science Success is not in what you have, but who you are. API Automation
 Do what you love and the money will follow. Firewalls Version Control Opportunities don't happen. You create them. Database Indexing The only way to do great work is to love what you do. Kafka Success is how high you bounce when you hit bottom. NLP Happiness is not something ready made. It comes from your own actions. Optimization
 Message Queue Simplicity is the ultimate sophistication. Parallel Processing Replica Set Work hard in silence, let your success be your noise.
+Serverless Code Review Big Data Stay hungry, stay foolish. UX Optimization

@@ -2,3 +2,4 @@ Version Control Act as if what you do makes a difference. It does. Logging Quant
 Great things never come from comfort zones. Frontend The only way to do great work is to love what you do. Testing Act as if what you do makes a difference. It does. Scalability CI/CD Multi-threading Neural Networks
 Predictive Analytics Stay hungry, stay foolish. Version Control Data Pipeline Innovation distinguishes between a leader and a follower. CI/CD Docker JavaScript Blockchain Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Database DNS Routing
 Backend GraphQL Agile CI/CD Predictive Analytics Logging IoT Big Data Data Science Success doesn’t just find you. You have to go out and get it. Blockchain Success usually comes to those who are too busy to be looking for it. JWT
+Distributed Systems Python React Security API
