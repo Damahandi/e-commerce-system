@@ -1,3 +1,4 @@
 Python WebSockets Content Delivery Network Serverless Edge Computing Machine Learning Kafka Algorithm Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 Multi-threading Message Queue Deployment Optimization Edge Computing Data Pipeline Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Sharding
 Lambda Functions Message Queue Optimization A/B Testing To be the best, you must be able to handle the worst. Logging API Gateway Framework Cloud Functions Performance Docker Scalability OAuth Happiness is not something ready made. It comes from your own actions. WebSockets
+Algorithm DevOps Success usually comes to those who are too busy to be looking for it. Replica Set Automation IoT The only way to do great work is to love what you do. Data Pipeline
