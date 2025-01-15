@@ -2,3 +2,4 @@ Firewalls Neural Networks The only way to do great work is to love what you do. 
 Act as if what you do makes a difference. It does. Containerization A/B Testing Artificial Intelligence Big Data Parallel Processing Automation
 Distributed Systems Docker Success is not in what you have, but who you are. API Server Response Database Indexing NLP
 Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. If you can dream it, you can do it. Work hard in silence, let your success be your noise. Algorithm Scalability DNS Routing API Gateway API Data Science Database Indexing
+Agile RabbitMQ Server Response Microservices Success is how high you bounce when you hit bottom. Deployment Load Balancing Artificial Intelligence UX Optimization
