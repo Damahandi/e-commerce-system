@@ -1,1 +1,2 @@
 Algorithm The only way to do great work is to love what you do. Message Queue Serverless DevOps Predictive Analytics Optimization Data Pipeline React OAuth UX Optimization CI/CD Replica Set Opportunities don't happen. You create them.
+Predictive Analytics Kubernetes UX Optimization Difficult roads often lead to beautiful destinations. Python Machine Learning API Microservices Lambda Functions Performance IoT JavaScript Parallel Processing Docker Serverless
