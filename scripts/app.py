@@ -1,1 +1,2 @@
 Simplicity is the ultimate sophistication. Database Indexing API If you can dream it, you can do it. Logging Latency Optimization Artificial Intelligence NLP Do what you love and the money will follow. Replica Set IoT
+Monitoring Database Indexing Database Kubernetes Serverless Server Response JavaScript Logging Success is how high you bounce when you hit bottom.
