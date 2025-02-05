@@ -1,1 +1,2 @@
 I find that the harder I work, the more luck I seem to have. Load Testing Event Sourcing Performance Docker Don't be afraid to give up the good to go for the great. Agile Algorithm Virtual Machines Database Data Science Frontend Success is how high you bounce when you hit bottom.
+Replica Set Deployment Big Data Latency Optimization The only way to do great work is to love what you do. Python IoT Microservices Artificial Intelligence Frontend
