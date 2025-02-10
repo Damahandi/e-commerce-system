@@ -1,0 +1,1 @@
+Version Control Zero Downtime Deployment Parallel Processing Firewalls Content Delivery Network Data Pipeline Containerization Frontend I find that the harder I work, the more luck I seem to have. Distributed Systems Act as if what you do makes a difference. It does. Database
